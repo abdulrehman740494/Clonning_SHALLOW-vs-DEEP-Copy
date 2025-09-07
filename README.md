@@ -3,6 +3,8 @@ Repository contains Java programs (OOPs) demonstrating Cloning, Shallow Copy, an
 <br>
 It explains how mutable and immutable objects behave in cloning , with clear examples using String, Integer, arrays, and custom classes.
 
+<hr>
+
 <b><u>KEY CONCEPTS<u></b>
 
 <b><u>Shallow Copy</u></b> – A copy where object references are shared. Any modification in one object reflects in the other if the field is mutable.
